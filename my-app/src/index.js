@@ -10,6 +10,7 @@ function Hi() {
     <div class="container">
       <img src={image} alt="Pic" width="200px" height="250px"/>
     <h1>Ameer Hamza</h1>
+    <h2>Frontend Developer</h2>
     <p>ABC Building Street 4 XYZ Area Karachi Sindh</p>
     <p><b> Contact: +92 333 3737701</b></p>
     <p><b>E-mail: hamzadeveloper012@gmail.com</b></p>
@@ -45,7 +46,7 @@ function Hi() {
 </table>
 <h2>Skils</h2>
 <ul>
-  <li>Frontend Developer</li>
+  <li>Frontend Developement</li>
   <li>AJAX</li>
   <li>ES6</li>
   <li>Git Hub</li>
