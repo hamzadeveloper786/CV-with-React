@@ -1,0 +1,38 @@
+div{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.container {
+  text-align: center;
+}
+
+li {
+  list-style: outside;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+img {
+  width: 200px;
+  padding: 2px 0px;
+}
+
+h2 {
+  margin: 22px 25px;
+  border: 3px solid darkturquoise;
+  background-color: lightblue;
+  color: blue;
+}
+
+p {
+  margin: 24px;
+}
+
+table {
+  padding: 0px 22px;
+}
+a{
+  text-decoration: none;
+  color: darkblue;
+}
